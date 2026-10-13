@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Page-1" id="EhOzK8TwsoPkrz98GpZ7">
-    <mxGraphModel dx="802" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="630" dy="1527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1102,6 +1102,12 @@
         </mxCell>
         <mxCell id="Bk7pPPj6Ud5R1Rq5c8Bq-10" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;" value="store" vertex="1">
           <mxGeometry height="60" width="60" x="3110" y="2580" as="geometry" />
+        </mxCell>
+        <mxCell id="jgb2BUItMLDMTJPwIyvJ-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="os-release" vertex="1">
+          <mxGeometry height="40" width="40" x="280" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="jgb2BUItMLDMTJPwIyvJ-2" edge="1" parent="1" source="dc7bJiwLBTwebKpE2Rro-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jgb2BUItMLDMTJPwIyvJ-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
